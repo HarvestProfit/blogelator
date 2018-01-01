@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_dependency "codelation_assets", "~> 0.3"
   s.add_dependency "paperclip", ">= 4.0.0"
   s.add_dependency "pygments.rb", "~> 0.6"
-  s.add_dependency "rails", "~> 4.0"
+  s.add_dependency "rails", ">= 4.0"
   s.add_dependency "redcarpet", "~> 3.3"
   s.add_dependency "turbolinks", "~> 5.0"
   s.add_development_dependency "rake"
